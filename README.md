@@ -6,6 +6,19 @@
 
 ---
 
+## 📚 Game Design Documents
+
+All detailed design documents are located in the [`/docs`](./docs) folder:
+
+- [Enemy Cards Dex](./docs/enemy-cards-dex.md) - Complete list of enemy cards and abilities
+- [Enemy Dex](./docs/enemy-dex.md) - Bestiary of all enemies and bosses
+- [Game Level Progression](./docs/game-level-progression.md) - Chapter and level structure
+- [Game Rules](./docs/game-rules.md) - Core gameplay mechanics and systems
+- [Job Classes](./docs/job-classes.md) - Player class descriptions and abilities
+- [Player Cards Dex](./docs/player-cards-dex.md) - Complete player card catalog
+
+---
+
 ## 🎮 Description
 
 **CyberSect** is a strategic, single-player card game that teaches core cybersecurity concepts through engaging turn-based gameplay. Play as a CS student defending your school's network from a malicious hacker. Battle viruses, malware, and threat actors using a deck of cards representing real-world security tools and strategies.
@@ -14,67 +27,48 @@
 
 ## ✨ Features
 
-- **Educational Gameplay:** Learn about firewalls, encryption, phishing, DDoS attacks, and more through play.
-- **Multiple Job Classes:** Master three unique specializations - Firewall Guardian, Antivirus Specialist, and Ethical Hacker.
-- **Deep Strategy:** Build your deck from 19+ unique cards, each with upgrade paths.
-- **Challenging Enemies:** Face 15+ enemies like Trojans, Ransomware, APTs, and SQL Injection attacks, each with unique abilities.
-- **Almanac System:** Unlock entries for every card and enemy defeated, serving as an educational glossary.
-- **Android Mobile Game:** Built with Unity for Android devices.
+- **Educational Gameplay:** Learn about firewalls, encryption, phishing, DDoS attacks, and more through play
+- **Multiple Job Classes:** Master three unique specializations - Firewall Guardian, Antivirus Specialist, and Ethical Hacker
+- **Deep Strategy:** Build your deck from 19+ unique cards, each with upgrade paths
+- **Challenging Enemies:** Face 15+ enemies like Trojans, Ransomware, APTs, and SQL Injection attacks
+- **Almanac System:** Unlock educational entries for every card and enemy defeated
+- **Android Mobile Game:** Built with Unity for Android devices
 
 ---
 
-## 🕹️ How to Play
+## 🛠️ Development Status
 
-- **Goal:** Reduce enemy HP to zero while protecting your own.
-- **Turn Structure:** Draw cards, spend Energy to play them, then survive the enemy's counterattack.
-- **Cards:** Use Attack, Defense, and Utility cards to outsmart your opponents.
-- **Progression:** Earn Cyber Points (CP) to buy and upgrade cards. Unlock new classes by defeating chapter bosses.
-
----
-
-## 🧩 Current Game Concept Status
-
-### ✅ Completed Design Work
-- **Core Game Rules:** Turn structure, deckbuilding, energy system.
-- **Player Cards:** 19+ cards designed (Attack, Defense, Utility).
-- **Enemy Design:** 15+ enemies with unique decks and signature moves.
-- **Class System:** Rookie, Firewall Guardian, Antivirus Specialist, Ethical Hacker.
-- **Progression:** 5-chapter campaign with rewards and class unlocks.
-- **Economy:** CP-based upgrade and shop system.
+### ✅ Completed Design Phase
+- Core game mechanics and rules
+- Complete card system (player + enemy)
+- Enemy roster with unique abilities
+- Class progression system
+- Chapter and level design
 
 ### 🚧 Next Steps
-- Finalize GDD & Technical Design Document
-- Begin Unity implementation
-- Create initial card and enemy sprites
-- Develop battle scene UI and logic
+- Unity implementation
+- Sprite and UI asset creation
+- Battle system programming
+- Playtesting and balancing
+
+---
+
+## 📋 Technical Specifications
+
+- **Engine:** Unity
+- **Language:** C#
+- **Platform:** Android (mobile)
+- **Mode:** Single-player offline
 
 ---
 
 ## 🎯 Educational Value
 
-CyberSect integrates real-world cybersecurity concepts into its core design:
-- Each card and enemy is based on actual tools and threats.
-- The Almanac provides concise explanations of each term.
-- Designed to complement IT/CS courses like *Information Assurance and Security*.
+CyberSect integrates real-world cybersecurity concepts into its core design. Each card and enemy is based on actual tools and threats, with the Almanac system providing concise explanations. Designed to complement IT/CS courses like *Information Assurance and Security*.
 
 ---
 
-## 📋 Supported Platforms
-
-- **Android** (primary target)
-- **Single-player offline** only (no online features)
-
----
-
-## 🛠️ Built With
-
-- Unity Engine
-- C#
-- Git / GitHub
-
----
-
-## 👥 Developers
+## 👥 Development Team
 
 - Alexandra Jasmine S. Barbon
 - Eugene V. Sobreo
@@ -85,11 +79,13 @@ CyberSect integrates real-world cybersecurity concepts into its core design:
 
 **Thesis Adviser:** Ms. Alma G. de Fiesta
 
+**Institution:** Cavite State University - Cavite City Campus
+
 ---
 
 ## 📄 License
 
-This project is developed for academic purposes as part of an undergraduate thesis in Computer Science at Cavite State University - Cavite City Campus.
+This project is developed for academic purposes as part of an undergraduate thesis in Computer Science.
 
 ---
 

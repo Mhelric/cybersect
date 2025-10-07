@@ -41,7 +41,6 @@ CyberSect is a single-player, turn-based card game where you play as a cybersecu
 
 ## 🔮 Status Effects
 **Negative (From Enemies):**
-- Poison: Take X damage each turn for Y turns
 - Stun: Lose next turn
 - Locked: Cannot play specific card for Z turns
 
@@ -51,7 +50,6 @@ CyberSect is a single-player, turn-based card game where you play as a cybersecu
 
 ## 👾 Enemy System
 - **Standard Enemies:** Common threats (Trojans, Worms, Spyware)
-- **Mini-Bosses:** Stronger threats (Phishers, Rootkits)
 - **Bosses:** Major threats (Ransomware, DDoS, APT)
 - **Signature Moves:** Unique abilities used once per battle
 - **AI-Controlled:** "Hacker" plays cards from enemy decks

@@ -1,36 +1,36 @@
-# 🃏 CyberSect - Complete Player Card List
+# 🃏 CyberSect - Complete Player Card List (Revised)
 
 ## 🗡️ Attack Cards
 
-| Card Name | Cost | Rarity | Effect | Upgrade Path |
+| Card Name | Cost | Rarity | Effect (Revised) | Upgrade Path |
 | :--- | :--- | :--- | :--- | :--- |
 | **Intrusion Counter** | 1E | Common | Deal 20 damage. | 20 → 30 → 40 dmg |
 | **Virus Scan** | 1E | Common | Deal 15 damage. Gain 5 Block. | 15+5 → 20+10 → 25+15 dmg+Block |
 | **Antivirus Sweep** | 2E | Common | Deal 40 damage. | 40 → 60 → 80 dmg |
-| **Quarantine Strike** | 3E | Rare | Deal 60 damage. **Fatal:** Skip enemy's next turn. | 60 → 80 → 100 dmg |
-| **Malware Cleanse** | 2E | Rare | Deal 20 damage. Remove all negative status effects from yourself. | 20 → 40 → 60 dmg |
+| **Quarantine Strike** | 3E | Rare | Deal 60 damage. **Stun** the enemy (Lose next turn). | 60 → 80 → 100 dmg |
+| **Malware Cleanse** | 2E | Rare | Deal 20 damage. **Heal 20 HP.** | 20 → 40 → 60 dmg |
 | **Penetrating Strike** | 3E | Epic | Deal 70 damage. **Ignores all enemy Shield.** | 70 → 90 → 110 dmg |
 
 ## 🛡️ Defense Cards
 
-| Card Name | Cost | Rarity | Effect | Upgrade Path |
+| Card Name | Cost | Rarity | Effect (Revised) | Upgrade Path |
 | :--- | :--- | :--- | :--- | :--- |
 | **Firewall Shield** | 1E | Common | Gain 30 Shield. | 30 → 40 → 60 Shield |
 | **System Patch** | 1E | Common | Gain 15 Shield. Heal 5 HP. | 15+5 → 20+10 → 25+15 Shield+Heal |
-| **Strong Password** | 1E | Rare | Gain 20 Shield. **Block 1** negative status effect this turn. | 20+1 → 30+2 → 40+3 Shield+Block |
-| **Multi-Factor Auth** | 2E | Rare | **Block 2** negative status effects. | Block 2 → 3 → 4 effects |
+| **Strong Password** | 1E | Rare | Gain 20 Shield. **Block 1** status effect this turn. | 20+1 → 30+2 → 40+3 Shield+Block |
+| **Multi-Factor Auth** | 2E | Rare | **Block 2** status effects. | Block 2 → 3 → 4 effects |
 | **VPN Tunnel** | 1E | Rare | Gain 25 Shield. Next attack against you is halved. | 25 → 35 → 50 Shield |
-| **Adaptive Shield** | 2E | Epic | Gain 40 Shield. **Reflect 10** damage. | 40 → 60 Shield, Reflect 20 |
+| **Adaptive Shield** | 2E | Epic | Gain 40 Shield. Deal 10 damage to the attacker. | 40 → 60 Shield, Deal 20 dmg to attacker |
 
 ## 🔧 Utility Cards
 
-| Card Name | Cost | Rarity | Effect | Upgrade Path |
+| Card Name | Cost | Rarity | Effect (Revised) | Upgrade Path |
 | :--- | :--- | :--- | :--- | :--- |
 | **System Update** | 3E | Common | Heal 20 HP. | 20 → 30 → 40 Heal |
 | **Awareness Training** | 1E | Common | Enemy deals **-10** damage next turn. | -10 → -20 → -30 dmg |
 | **Drain Resources** | 2E | Rare | Enemy loses **1 Energy** next turn. | -1 → -2 → -2 Energy |
-| **Exploit Patch** | 2E | Rare | **Disable** the enemy's next card. | Disable 1 → 2 cards |
-| **Reverse Hack** | 3E | Rare | The next negative status effect targeting you is applied to the enemy instead. | Reflect 1 → 2 effects |
+| **Exploit Patch** | 2E | Rare | **Stun** the enemy (Lose next turn). | Stun 1 → 2 turns |
+| **Reverse Hack** | 3E | Rare | Draw 2 cards. Gain 1 Energy next turn. | Draw 2 + 1E → Draw 3 + 1E |
 | **Password Manager** | 1E | Rare | Draw 1 card. If it's a Defense card, it costs 0 Energy this turn. | Draw 1 → 2 cards |
 | **Load Balancer** | 2E | Epic | Draw until you have 5 cards in hand. | Add "Gain 10 Shield" |
 | **System Restore** | 2E | Epic | Choose and play a card from your discard pile. | 1 → 2 cards |

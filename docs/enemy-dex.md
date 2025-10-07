@@ -4,27 +4,18 @@
 
 | Enemy Name | Type | HP | Deck | Signature Move |
 | :--- | :--- | :--- | :--- | :--- |
-| **Trojan Horse** | Malware | 50-80 | Basic Attack, Phishing Attack, Spyware | **Hide in System:** Add 1 'Junk' card to player's hand. |
-| **Worm** | Malware | 60-90 | Basic Attack, Malware Injection | **Self-Replicate:** Play 'Malware Injection' twice this turn. |
-| **DDoS Swarm** | Horde | 40-70 | Basic Attack, DDoS Burst | **Overwhelm:** Player draws 1 less card next turn. |
-| **Spyware Entity** | Malware | 55-85 | Basic Attack, Spyware | **Silent Watch:** Remove 1 card from player's discard pile. |
-| **Adware Bot** | Malware | 45-75 | Basic Attack, Phishing Attack | **Pop-Up Flood:** Add 2 'Ad' cards to player's deck. |
-| **Keylogger** | Malware | 65-95 | Spyware, Phishing Attack | **Keystroke Theft:** Player loses 1 Energy next turn. |
-
-## 📧 Mini-Bosses
-
-| Enemy Name | Type | HP | Deck | Signature Move |
-| :--- | :--- | :--- | :--- | :--- |
-| **Phishing Attacker** | Threat Actor | 100-130 | Phishing Atk, Spyware, Fake Login Page | **Credential Theft:** Discard 1 random card from player's hand. |
-| **Rootkit** | Malware | 110-140 | Basic Attack, Malware Injection | **Deep Embed:** Player's Shield is 50% less effective for 2 turns. |
-| **Insider Threat** | Human Threat | 100-130 | Fake Firewall, Fake System Update | **Betrayal:** Copy the effect of the last player card used. |
-| **Botnet Commander** | Hacker Leader | 120-150 | DDoS Burst, Packet Flood | **Command Swarm:** Summon 1 DDoS Swarm to fight alongside it. |
+| **Trojan Horse** | Malware | 50-80 | Basic Attack, Phishing Attack, Spyware | – |
+| **Worm** | Malware | 60-90 | Basic Attack, Malware Injection | – |
+| **DDoS Swarm** | Horde | 40-70 | Basic Attack, DDoS Burst | – |
+| **Spyware Entity** | Malware | 55-85 | Basic Attack, Spyware | – |
+| **Adware Bot** | Malware | 45-75 | Basic Attack, Phishing Attack | – |
+| **Keylogger** | Malware | 65-95 | Spyware, Phishing Attack | – |
 
 ## 👑 Bosses
 
 | Enemy Name | Type | HP | Deck | Signature Move |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ransomware** | Malware | 200-250 | Ransomware Lock, Encrypt Files, Basic Atk | **Encrypt System:** 2 random cards in player's hand are Locked for 2 turns. |
+| **Ransomware** | Malware | 200-250 | Basic Atk, Malware Injection, DDoS Burst | **Encrypt System:** **Stun** the player (Lose next turn). |
 | **DDoS Boss** | Major Malware | 220-270 | Packet Flood, DDoS Burst, Spyware | **Total Overload:** Use 'Packet Flood' twice in one turn. |
 | **APT** | Elite Hacker | 250-300 | Zero-Day Exploit, Root Access, Spyware | **Silent Infiltration:** Deal 40 damage at the start of next turn (ignores Shield). |
 | **Man-in-the-Middle** | Hacker | 230-280 | Fake Login Page, Spyware, Phishing Atk | **Intercept Packet:** Copy the next player card played and use it immediately. |
